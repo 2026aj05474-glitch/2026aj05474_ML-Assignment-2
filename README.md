@@ -3,7 +3,7 @@
 ## Machine Learning Assignment 2
 
 ### Problem Statement
-Problem Statement: Vehicle Silhouette Classification Using Machine Learning
+Vehicle Silhouette Classification Using Machine Learning
 
 Vehicle classification is an important task in intelligent transportation systems, traffic monitoring, and automated vehicle recognition. Identifying vehicle types accurately from their visual characteristics can help improve traffic analysis and transportation management.
 
