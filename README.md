@@ -2,9 +2,22 @@
 # Vehicle Silhouette Classification
 ## Machine Learning Assignment 2
 
-### Project Overview
-This project compares five supervised machine learning
-classification algorithms using the Vehicle Silhouettes dataset.
+### Problem Statement
+Problem Statement: Vehicle Silhouette Classification Using Machine Learning
+
+Vehicle classification is an important task in intelligent transportation systems, traffic monitoring, and automated vehicle recognition. Identifying vehicle types accurately from their visual characteristics can help improve traffic analysis and transportation management.
+
+The objective of this project is to develop and evaluate machine learning classification models that can identify vehicle types based on their geometric and silhouette-related features.
+
+The project uses the Vehicle Silhouettes dataset, consisting of 846 observations, 18 numerical input features, and four vehicle classes: Bus, Opel, Saab, and Van.
+
+The dataset is analyzed and preprocessed before training multiple classification algorithms, including Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN), Naive Bayes, and Support Vector Machine (SVM).
+
+The performance of these models is evaluated using Accuracy, Precision, Recall, F1-score, AUC, Matthews Correlation Coefficient (MCC), and Confusion Matrix.
+
+The project also aims to develop an interactive web application using Streamlit, allowing users to upload vehicle test data, select a trained classification model, generate predictions, view model performance reports, and download prediction results.
+
+The primary goal is to identify the most suitable machine learning model for vehicle silhouette classification and demonstrate its practical application through an interactive web-based interfac
 
 ### Dataset Information
 - Total records: 846
